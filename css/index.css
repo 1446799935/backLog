@@ -41,10 +41,24 @@ body,html{
 }
 .oneform{
 	width: 100%;
-	height: 100%;
+	height: 90%;
 }
 .oneform>div{
 	width: 50%;
 	height: 70%;
 	padding-top:40px;
+}
+.twoform{
+	width: 100%;
+	height: 70%;
+}
+.twoform>div{
+	width: 50%;
+	height: 100%;
+	background-color: red;
+}
+#footer{
+	width: 100%;
+	height: 15%;
+	background-color:#27ae60;
 }
