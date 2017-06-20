@@ -1,0 +1,21 @@
+body{
+	padding-top: 50px;
+}
+body,html{
+	width: 100%;
+	height: 100%;
+}
+#IterationList>a{
+	font-size: 14px;
+	padding-right: 0px;
+	margin-left: 10px;
+	color: #f2eeee;
+}
+#bs>ul>li>a{
+	color:#f2eeee;
+}
+#navHead{
+	background-color: rgb(39,174,96);
+	margin-bottom: 0;
+	border: 0;
+}
